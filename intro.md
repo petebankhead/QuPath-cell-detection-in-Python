@@ -16,7 +16,7 @@ kernelspec:
 
 This notebook attempts to replicate QuPath's cell detection in Python.
 
-It is quite rough.
+It is quite rough, and by no means an exact copy of the original method - but hopefully gives some useful insights into how it works.
 
 ```{code-cell} ipython3
 from imageio.v3 import imread

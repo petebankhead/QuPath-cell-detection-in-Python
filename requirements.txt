@@ -1,0 +1,6 @@
+imageio==2.21.3
+scikit_image==0.19.3
+matplotlib==3.5.3
+scipy==1.9.1
+jupyter-book==0.13.1
+jupytext==1.14.1
